@@ -77,3 +77,4 @@ console.log("True" , word);
 
 //+ - * / % **
 //> < >= <= == !=, the value is boolean
+
